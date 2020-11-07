@@ -1,7 +1,7 @@
 # R_Assignments
 R Programming Assignments
 
-by Zhen Zhong
+by Justine Zhen Zhong
 
 For:
 
