@@ -1,16 +1,16 @@
-# R_Assignments
+ R_Assignments
 R Programming Assignments
 
 by Justine Zhen Zhong
 
 For:
 
-R Programming 
-by Johns Hopkins University
+# R Programming 
+## by Johns Hopkins University
 
 Platform: COURSERA
 
-Programming Assignment 2: Air Pollution
+### Programming Assignment 2: Air Pollution
 
 Three functions that are meant to interact with dataset that accompanies this assignment. 
 
@@ -37,6 +37,6 @@ If no monitors meet the threshold requirement, then the function returns a numer
 
 
 
-Programming Assignment 3: Hospital Ranking
+### Programming Assignment 3: Hospital Ranking
 
 Please refer to "ProgAssignment3.pdf" under folder "ProgAssignment3".
