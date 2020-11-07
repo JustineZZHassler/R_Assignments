@@ -35,3 +35,8 @@ the pollutant across all of the monitors, ignoring any missing values coded as N
 The function returns a vector of correlations for the monitors that meet the threshold requirement. 
 If no monitors meet the threshold requirement, then the function returns a numeric vector of length 0. 
 
+
+
+Programming Assignment 3: Hospital Ranking
+
+Please refer to "ProgAssignment3.pdf" under folder "ProgAssignment3".
